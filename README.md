@@ -11,7 +11,7 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Python • SQL • Cloud
 
 🌱 Growing into a Data Scientist / ML Engineer
 
-👩‍💻 Experienced in Python, SQL, scikit-learn, Pandas, NumPy
+👩‍💻 Experienced in Python, SQL, scikit-learn, Pandas, NumPy, seaborn, matplotlib, Machine Learning, Power BI , Excel 
 
 ☁️ Hands-on with GCP, AWS (S3, Athena, EC2)
 
