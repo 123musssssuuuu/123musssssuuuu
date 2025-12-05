@@ -1,10 +1,6 @@
 ### Hi — I'm Muskan Bansal 👋
 Aspiring Data Scientist | ML Intern | Building end-to-end ML apps (Python, scikit-learn, Power BI)
 
-
-🌟 Muskan Bansal
-Aspiring Data Scientist | Machine Learning Enthusiast | Python • SQL • Cloud (GCP, AWS)
-
 🚀 Passionate about turning raw data into meaningful insights using Machine Learning, NLP, Time Series, and predictive modeling.
 🎓 3rd-year Computer Science student focused on building impactful, real-world AI solutions.
 💡 Experienced in ETL pipelines, dashboards, cloud tools, and full-stack applications.
