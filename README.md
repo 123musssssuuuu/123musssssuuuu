@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi — I'm Muskan Bansal 👋
+Aspiring Data Scientist | ML Intern | Building end-to-end ML apps (Python, scikit-learn, Power BI)
+
 
 🌟 Muskan Bansal
 Aspiring Data Scientist | Machine Learning Enthusiast | Python • SQL • Cloud (GCP, AWS)
